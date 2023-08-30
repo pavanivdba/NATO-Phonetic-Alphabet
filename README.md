@@ -9,3 +9,7 @@ the information. So waht we is like for example my name "PAVANI", P as in PARIS,
 
 This Application instead of us thinking what word to use , the word given is converted into NATO - Phonetics WORDS as list.
 And makes our job easy.
+
+We read the CSV file which is populated with all the NATO Phonetics and process the data as per our use.
+
+I have attached the CSV file as well along with the code .
